@@ -1,0 +1,7 @@
+CustomerID,Gender,Country,Satisfaction,Service_Level,Delivery_Speed,Purchased_Product
+C001,Male,Nepal,High,Good,Fast,Yes
+C002,Female,India,Low,Poor,Slow,No
+C003,Female,USA,Medium,Average,Normal,Yes
+C004,Male,India,High,Excellent,Fast,Yes
+C005,Female,Nepal,Low,Good,Slow,No
+C006,Male,USA,Medium,Average,Normal,Yes
